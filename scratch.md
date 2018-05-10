@@ -1,3 +1,3 @@
 ## Recursos scratch
 
-[Curso de scratch y arduino](https://github.com/javacasm/ScratchMotril)
+[Curso de scratch y arduino](httAps://github.com/javacasm/ScratchMotril)
