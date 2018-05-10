@@ -1,10 +1,10 @@
-1. electricidad y electrónica
+1. Electricidad y electrónica. Magnitudes electricas, leds, resistencias y pulsadores
 
-1. Programación por bloques: Scratch
+1. Programación por bloques: Scratch y Tuniot (http://www.easycoding.tn/tuniot/demos/code/?lang=es)
 
-1. Control de leds: iluminación en color
+1. Control de leds: secuencias, e iluminación en colores
 
-1. Sensor de presencia: Alarmas
+1. Sensores digitales, de presencia (Alarmas)
 
 1. Relés y mundo real
 
@@ -14,7 +14,7 @@
 
 1. Sensores 2:  Estación meteorológica
 
-1. Motores
+1. Motores y servos
 
 1. Sensores 3: Medidas de consumo
 
