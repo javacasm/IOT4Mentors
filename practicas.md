@@ -2,17 +2,19 @@
 
 1. Programación por bloques: Scratch y Tuniot (http://www.easycoding.tn/tuniot/demos/code/?lang=es)
 
-1. Control de leds: secuencias, e iluminación en colores
+1. [Control de leds: secuencias, e iluminación en colores](./Leds.md)
+
+1. [Pantallas LCD](./LCD.md)
 
 1. Sensores digitales, de presencia (Alarmas)
 
-1. Relés y mundo real
+1. [Relés y mundo real](./Reles.md)
 
 1. Medidas analógicas y sensores: sensores de humedad y lluvia
 
 1. Activación por sensores: farola automática
 
-1. Sensores 2:  Estación meteorológica
+1. [Sensores 2:  Estación meteorológica](./Sensores_atmosfericos.md)
 
 1. Motores y servos
 
