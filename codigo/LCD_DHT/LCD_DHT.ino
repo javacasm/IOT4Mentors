@@ -5,7 +5,7 @@
 
 LiquidCrystal_I2C lcd(0x27,16,2); // Cambiamos la direccion
 
-DHT dht16(D4,DHT22);
+DHT dht16(D6,DHT22);
 
 void setup()
 {
