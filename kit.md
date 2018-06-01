@@ -3,10 +3,10 @@
 
 |componente	|URL
 |---|---
-|Node MCU	||http://inven.es/placas-compatibles/505-placa-nodemcu-v20-con-wi-fi-integrado-esp8266-basado-en-lua.html?search_query=nodemcu&results=1
+|Node MCU	|http://inven.es/placas-compatibles/505-placa-nodemcu-v20-con-wi-fi-integrado-esp8266-basado-en-lua.html?search_query=nodemcu&results=1
 |Shield nodeMCU compatible
 |Placa de prototipo de 800 puntos	|http://inven.es/protoboard/21-protoboard-mb-102-830p-conexiones-blanca.html?search_query=protoboard&results=28
-|Placa ADC PCF8591 AD/DA	https://www.banggood.com/PCF8591-AD-DA-Converter-Module-Analog-To-Digital-Conversion-With-Cable-p-915885.html
+|Placa ADC PCF8591 AD/DA|	https://www.banggood.com/PCF8591-AD-DA-Converter-Module-Analog-To-Digital-Conversion-With-Cable-p-915885.html
 |lcd I2C	|http://inven.es/pantallas-y-display/8-lcd-16x2.html
 |componentes Basicos (Leds, pulsadores, resistencias, potenciometros)	|http://inven.es/componentes-electronicos/110-pack-electronica-1.html
 |cables macho	|http://inven.es/cables-y-conectores/20-kit-jumper-wires.html
