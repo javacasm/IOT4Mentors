@@ -1,5 +1,6 @@
 ##  Contenido del Kit
 
+([Resumen de componentes](./Componentes.md))
 
 |componente	|URL
 |---|---
