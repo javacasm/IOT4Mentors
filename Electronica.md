@@ -15,3 +15,10 @@
   1. Ley de Ohm
   1. Ley de ¿Kirchoff?
   1. Cálculo
+
+ENLACES A PRESENTACIONES
+
+
+![images/Led_pulsador_bb_9V.png](./images/Led_pulsador_bb_9V.png)
+
+  ![images/Led_Pulsador_esquematico.png](./images/Led_Pulsador_esquematico.png)
