@@ -22,7 +22,7 @@
 
 1. Wifi y control remoto
 
-1. HTML y publicación de información
+1. HTML y [plataformas de publicación de información](./Plataformas.md)
 
 1. Medida de polución y gases
 
