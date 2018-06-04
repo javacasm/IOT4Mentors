@@ -1,4 +1,4 @@
-1. Electricidad y electrónica. Magnitudes electricas, leds, resistencias y pulsadores
+1. [Electricidad y electrónica. Magnitudes electricas, leds, resistencias y pulsadores](./Electronica.md)
 
 1. Programación por bloques: Scratch y Tuniot (http://www.easycoding.tn/tuniot/demos/code/?lang=es)
 
