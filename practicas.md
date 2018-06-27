@@ -1,6 +1,6 @@
 1. [Electricidad y electrónica. Magnitudes electricas, leds, resistencias y pulsadores](./Electronica.md)
 
-1. Programación por bloques: Scratch y Tuniot (http://www.easycoding.tn/tuniot/demos/code/?lang=es)
+1. Programación por bloques: [Scratch](./scratch.md) y [Tuniot](./ProgramacionBloques.md) (http://www.easycoding.tn/tuniot/demos/code/?lang=es)
 
 1. [Control de leds: secuencias, e iluminación en colores](./Leds.md)
 
