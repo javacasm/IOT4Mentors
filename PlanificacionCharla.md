@@ -13,6 +13,7 @@
     1. [NodeMCU (ESP)](./NodeMCU.md)
   1. Entorno
     1. [Instalación](./ConfiguracionIDE.md)
+    1. [Uso del IDE](./IDE.md)
     1. Errores frecuentes
     1. Soluciones
   1. Normas de montaje
@@ -20,7 +21,7 @@
     1. [Leds](./Leds.md)
     1. [Relés](./Reles.md)
     1. Estación meteo WiFi
-  1. Entornos de bloques
+  1. [Entornos de bloques](./ProgramacionBloques.md)
 
 15:30
   1. Proyectos prácticos
