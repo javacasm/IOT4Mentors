@@ -28,7 +28,7 @@
 
 1. Sistema de riego automático
 
-1. Control desde el móvil (appInventor)
+1. Control desde el móvil ([AppInventor](./appinventor.md))
 
 1. Control de potencia: iluminación gradual
 
