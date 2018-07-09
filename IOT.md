@@ -43,4 +43,3 @@ Veamos algunos de los proyectos en los que podríamos trabajar:
 * Control remoto de componentes mediante el uso de un relé vamos a poder encender y apagar dispositivo remotamente con nuestro sistema bien por el cambio de alguna tela sistemas que medimos o bien por accionamiento externo
 
 * Medida de calidad del aire. Usaremos sensores de medida de partículas para determinar la calidad del aire al mismo tiempo también mediremos en el contenido en gases y los parámetros atmosféricos. Publicaremos todos estos datos en una página web para poder comparar la medida en diferentes lugares
-
