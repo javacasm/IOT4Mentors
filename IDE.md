@@ -16,10 +16,20 @@ En [este enlace](./ConfiguracionIDE.md) podemos ver cómo se instalaría desde c
 
 ##  Uso del IDE
 
-1. Cargamos un ejemplo IMAGEN
-1. Seleccionamos (o comprobamos) que está seleccionada la placa NodeMCU 1.0 IMAGEN
-1. Pulsamos Validar/Compilar ICONO
-1. Si se produce un error  revisamos según el esquema… IMAGEN
-1. Seleccionamos el puerto al que está conectado IMAGEN
-1. Subimos el programa a la placa PULSANDO ICONO  El led de la placa parpadeará IMAGEN
-1.
+1. Cargamos un ejemplo Archivo -> Ejemplos
+1. Seleccionamos (o comprobamos) que está seleccionada la placa NodeMCU 1.0 Herramientas -> Placa -> NodeMCU 1.0
+![NodeMCU](./images/Placa-NodeMCU1.0.png)
+1. Pulsamos Validar/Compilar
+1. Si se produce un error  revisamos según el esquema…
+![Error compilacion](./images/ErrorCodigo.png)
+1. Seleccionamos el puerto al que está conectado Herramientas -> Puerto -> ttyUSB
+
+  ![Puerto USB](./images/PuertoUSB.png)
+
+1. Seleccionamos Herramientas -> Velocidad de transmisión -> 921600
+
+    ![Velocidad Puerto](./images/UploadSpeed.png)
+
+1. Subimos el programa a la placa   El led ázul de la placa parpadeará
+
+    ![Error USB](./images/ErrorUSB.png)
