@@ -7,3 +7,5 @@
   1. Hello LCD
   1. Contar/reloj
   1. Estructurar la información en pantalla
+
+![LCD](./images/2.ESP_LCD_bb.png)
