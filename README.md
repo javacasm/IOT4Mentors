@@ -1,6 +1,6 @@
 # IOT4Mentors
 
-## [https://github.com/javacasm/IOT4Mentors](https://github.com/javacasm/IOT4Mentors)
+## [https://github.com/guadalinfo/IOT4Mentors](https://github.com/guadalinfo/IOT4Mentors)
 
 Talleres para el aprendizaje y la aplicación de tecnologías IOT para la vida y el día a día.
 
