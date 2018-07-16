@@ -11,8 +11,6 @@
 
 ![Relés](./images/Reles_bb.png)
 
-TODO: cambio de montaje a 3.3V y a D0 y D4
-
 ### Programación
 
 ### Ejemplo industrial
