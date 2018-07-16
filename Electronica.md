@@ -28,6 +28,12 @@ Ahora veremos un [vídeo](https://youtu.be/FD6N9x6bjHU) que nos explica el mundo
 
 [Presentación sobre electrónica](./documentacion/0.4_IntroduccionElectronica.pdf)
 
+
+## Convenciones
+
+* GND: cable de alimentación negativo, se suele llamar "tierra" (Ground en inglés). Se suele utilizar cable negro para conectarlos
+* Vcc o Vin o V: cable de alimentación positivo, suele ser 5V y se suelen usar cables rojos para conectarlos. En las placas con varios voltajes hay que tener cuidado con ellos.
+
 ## Para saber más
 
 Un [video-instructable](http://www.instructables.com/id/Basic-Electronics/) que empieza desde lo más fundamental y llega hasta montar un circuito oscilador con un 555. Lo más probable es que cualquiera que tenga una mínima inquietud por el tema se pueda saltar los primeros pasos, pero en cualquier caso vale la pena.
@@ -46,7 +52,7 @@ La placa de prototipo o protoboard sirve como una regleta de conexiones, facilit
 
 En esta imagen vemos como nos permite conectar dos cables (el verde y el rojo)
 
-![Funcionamiento Placa de prototipo](./images/Representación-de-una-coneccion-en-un-protoboard.gif)
+![Funcionamiento Placa de prototipo](./images/Representacion-de-una-coneccion-en-un-protoboard.gif)
 
 Internamente tienen unas placas metálicas que establecen los contactos
 
@@ -58,7 +64,7 @@ Las lineas azules y rojas se suelen usar para conectar llevar la alimentación a
 
 Hay que tener en cuenta que algunos fabricantes no conectan toda la línea de alimentación, sino sólo la mitad
 
-![corte alimentación](./images/protoboard Sepaarcion.jpg)
+![cortealimentación](./images/protoboard_Separacion.jpg)
 
 
 ### Montaje
