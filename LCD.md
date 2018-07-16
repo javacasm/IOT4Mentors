@@ -10,7 +10,7 @@
 
 ![LCD](./images/LCD_bb.png)
 
-TODO: cambiar los pines SCL = D1 SDA = D2
+Los pines SCL = D1 y SDA = D2
 
 ### Problemas con el LCD
 
