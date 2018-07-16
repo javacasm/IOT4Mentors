@@ -32,4 +32,5 @@ En [este enlace](./ConfiguracionIDE.md) podemos ver cómo se instalaría desde c
 
 1. Subimos el programa a la placa   El led ázul de la placa parpadeará
 
+Se puede producir un error si no hemos seleccionado bien el puerto USB en el paso anterior
     ![Error USB](./images/ErrorUSB.png)
