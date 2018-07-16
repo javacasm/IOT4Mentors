@@ -18,7 +18,6 @@ TODO: detallar conexión de leds
 ## LCD
 
 ### Esquema
-TODO: cambiar los pines SCL = D1 SDA = D2
 Direcciones (I2C_scanner) TODO
 Contador/reloj TODO
 
