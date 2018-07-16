@@ -16,5 +16,6 @@ LCD_DHT_web
 
       Wifi.begin("SSID","password")
 
-2. Veremos la ip con el Monitor Serie
-3. Entramos a la web con http://IP
+2. Conectamos el LCD y el DHT como en el ejemplo LCD_DHT
+3. Veremos la ip con el Monitor Serie
+4. Entramos a la web con http://IP
