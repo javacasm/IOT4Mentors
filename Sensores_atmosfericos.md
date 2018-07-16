@@ -2,15 +2,13 @@
 
 ## DHT
 
-![](./images/3.ESP_DHT-LCD_bb.png)
+![](./images/LCD_DHT_bb.png)
 
-Ejemplos - Smartcities -  3. Sensores II - LCD - DHT
+**Archivo -> Ejemplos -> Talleres Tecnología AILs -> 3. Sensores II - LCD - DHT**
 
-
-TODO: Corregir el montaje (LCD y DHT)
 
 ## BME280
 
 ![](./images/LCD_BME280_bb.png)
 
-Ejemplos - Smartcities -  3. Sensores II - Sensor Atmosferico BME280
+**Archivo -> Ejemplos -> Talleres Tecnología AILs ->3. Sensores II - Sensor Atmosferico BME280**
