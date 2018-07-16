@@ -8,7 +8,7 @@
   1. Contar/reloj TODO
   1. Estructurar la información en pantalla
 
-![LCD](./images/2.ESP_LCD_bb.png)
+![LCD](./images/LCD_bb.png)
 
 TODO: cambiar los pines SCL = D1 SDA = D2
 
