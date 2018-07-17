@@ -33,3 +33,5 @@ Los pines SCL = D1 y SDA = D2
       lcd.print("Adios!!!");
       delay(500);
     }
+
+2. Usar la medida de tiempo de Arduino para mostrar un reloj en el LCD (aunque no tiene hora real)
