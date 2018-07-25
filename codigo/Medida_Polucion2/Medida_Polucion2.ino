@@ -1,4 +1,4 @@
-int pin = D3;//DSM501A input D3
+int pin = 3;//DSM501A input D3
 unsigned long duration;
 unsigned long starttime;
 unsigned long endtime;
