@@ -9,16 +9,15 @@ Talleres para el aprendizaje y la aplicación de tecnologías IOT para la vida y
 Conocer aplicaciones prácticas de la tecnología IOT en nuestro día a día, realizando proyectos reales donde se puedan usar estas tecnología
 
 
-[Talleres de tecnología](https://github.com/guadalinfo/SmartCities_Domotica)
 
-## [Prácticas](./practicas.md)
 
-## [Kit](./kit.md)
+## [Prácticas para realizar](./practicas.md)
+
+## [Kit y sus componentes](./kit.md)
 
 ## Recursos
 
 * Curso básico de Arduino () https://www.udemy.com/arduino-cero
 * Páginas con proyectos de IOT https://www.instructables.com/howto/iot/
 * Páginas con proyecto de Arduino https://www.instructables.com/technology/arduino/
-
-[Encuesta](./encuesta.md)
+* [Documentación para talleres a la ciudadanía (usan Arduino UNO Wifi)](https://github.com/guadalinfo/SmartCities_Domotica)
