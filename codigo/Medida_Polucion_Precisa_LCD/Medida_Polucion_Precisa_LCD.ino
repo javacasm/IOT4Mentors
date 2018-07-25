@@ -12,7 +12,7 @@
  * 4 red rouge - Vout1 - 2.5 microns (PM2.5)
  * 5 black noir - GND
 */
-#define FACTOR 1000
+#define FACTOR 1
 #define LCD_ID 0x27
 #ifndef D3
   #define D3 3
