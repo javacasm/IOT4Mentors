@@ -10,4 +10,4 @@ El código está en
 
 ## Ejercicio
 
-Hacer un programa que enciende y apaga un relé cada 5 segundos [Solución](./codigo/codigo/Reloj_RTC_alarma/Reloj_RTC_alarma.ino)
+Hacer un programa que enciende y apaga un relé cada 5 segundos [Solución](./codigo/Reloj_RTC_alarma/Reloj_RTC_alarma.ino)
