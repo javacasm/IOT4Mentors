@@ -15,15 +15,17 @@ documentclass:
 \textbf{Talleres para el aprendizaje y la aplicación de tecnologías IOT para la vida y el día a día}
 \normalsize
 
- José Antonio Vacas Martínez
+ José Antonio Vacas Martínez @javacasm para la red Guadalinfo
 
 https://github.com/guadalinfo/IOT4Mentors
 
 \today
 
+\includegraphics{Licencia_CC}
+
 \end{center}
 
-\includegraphics{Licencia_CC}
+
 \vspace*{\fill}
 
 \frontmatter
