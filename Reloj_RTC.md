@@ -1,4 +1,4 @@
-# Reloj RTC DS3231
+## Reloj RTC DS3231
 
 ![Montaje](./images/Reloj_RTC_bb.png)
 
