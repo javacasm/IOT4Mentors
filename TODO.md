@@ -10,18 +10,21 @@ TODO
 TODO: explicar el montaje
 TODO: valores de las resistencias
 
+Buscar ./images/protoboard_Separacion.jpg
+
 ## Reles
 
 
 TODO: detallar conexión de leds
 
-## LCD
-
 ### Esquema
 Direcciones (I2C_scanner) TODO
-Contador/reloj TODO
+
+## BME280
+
+Cambiar el código para que en caso de que haya error con el sensor aparezca el error en el LCD.
 
 
-## Sensores atmosféricos
+## Practicas
 
-TODO: Corregir el montaje (LCD y DHT)
+Añadir los errores más frecuentes
