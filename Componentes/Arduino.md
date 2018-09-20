@@ -6,4 +6,4 @@ Se programa en C/C++
 
 La versión que usaremos es la Arduino UNO Wifi que permite conectarnos de manera sencilla a una red wifi
 
-![](../images/Arduino.png)
+![](./images/Arduino.png)
