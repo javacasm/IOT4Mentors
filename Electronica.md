@@ -8,6 +8,7 @@
 1. Componentes
   1. Leds
   1. Resistencias
+  ![](./images/CodigoColorResistencias.gif)
   1. Pulsadores e interruptores
 1. Montajes sencillos
   1. Circuito básico
@@ -64,7 +65,7 @@ Las lineas azules y rojas se suelen usar para conectar llevar la alimentación a
 
 Hay que tener en cuenta que algunos fabricantes no conectan toda la línea de alimentación, sino sólo la mitad
 
-![cortealimentación](./images/protoboard_Separacion.jpg)
+[Corte en las lineas de alimentación](./images/protoboard_Separacion.jpg)
 
 
 ### Montaje
