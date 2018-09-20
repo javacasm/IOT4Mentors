@@ -26,6 +26,8 @@
 
   ![Sensores de gases](./images/MQ-7.png)
 
+* [Sensor de presencia](./Componentes/SensorPresencia.md)
+
 ## Actuadores
 
 * [Servo](./Componentes/Servo.md)
@@ -46,7 +48,7 @@
 
   ![Protoboard](./images/Protoboard.png)
 
-* [NodeMCU](./Componentes/Shield.md)
+* [NodeMCU](./Componentes/NodeMCU_componente.md)
 
   ![NodeMCU](./images/NodeMCU_bb.png)
 
