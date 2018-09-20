@@ -7,8 +7,10 @@ En [este enlace](./ConfiguracionIDE.md) podemos ver cómo se instalaría desde c
 ## Diferencias con Arduino
 
 1. Diferente capacidad
-![](https://camo.githubusercontent.com/d33147f160317884c4376fafb64a39bedf37164e/68747470733a2f2f322e62702e626c6f6773706f742e636f6d2f2d4a733552315644336c39342f57515452735f5242456a492f41414141414141414242632f4e4641755043697643473062624d57386671486c343567365f3330637431365767434c63422f73313630302f436f6d70617261746976612532424553503332253242767325324241726475696e6f2e4a5047)
-1. Programa más pequeño (diferencia microcontrolador/SOC: Sistem On Chip)
+
+![](./images/Comparativa+ESP32+vs+Arduino.JPG)
+
+2. Programa más pequeño (diferencia microcontrolador/SOC: Sistem On Chip)
 
 ## Funcionamiento
 1. Proceso de compilación
