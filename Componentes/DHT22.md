@@ -1,5 +1,5 @@
-# Sensor de temperatura DHT22
+## Sensor de temperatura DHT22
 
-Sensor de temperatura y humedad 
+Sensor de temperatura y humedad
 
-![](../images/DHT22.png)
+![](./images/DHT22.png)
