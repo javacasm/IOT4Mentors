@@ -23,7 +23,7 @@
  * Programación con bloques (ProgramaciónBloques.md)
  * Scratch (Scratch.md)
  * AppInventor (AppInventor.md)
-## Apéndice: Componentes (Componentes.md, ./componentes/*.me)
 ## Apéndice: kit (Kit.md)
+## Apéndice: Componentes (Componentes.md, ./componentes/*.md)
 ## Apéndice: Otros Kits (KitRecomendables.md)
 ## Apéndice: Simuladores (Simuladores.md)
