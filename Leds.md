@@ -7,7 +7,7 @@ Vamos a empezar usando los leds que tiene incluidas las placas.
 
 ### Blink o parpadeo
 
-Para ello cargaremos el ejemplo Blink
+Para ello cargaremos el ejemplo Blink del IDE
 
 **Archivo -> Ejemplos -> 01.Basics -> Blink**
 
