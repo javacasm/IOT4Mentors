@@ -29,9 +29,11 @@
    
 1. Probamos el acceso desde el navegador 
 2. Veremos la ip con el Monitor Serie
-3. Entramos a la web con http://IP
+3. Entramos a la web con http://IP (El ordenador debe de estar conectados a la misma red wifi)
 4. Revisamos el código
 5. Modificamos el HTML ([Tutoriales HTML](https://www.w3schools.com/)) 
+    * Formato
+    * Refresh
 
 ### Mostrando datos de sensores (LCD_DHT_web)
 
@@ -50,5 +52,8 @@
 
 #### Para saber más ...
     * Configuración de routers
-    * Redireccionamiento de Puertos
+    * Redireccionamiento de Puertos (Acceso remoto)
     * Acceso desde el móvil
+    * Configuración de seguridad de acceso
+    * [Plataformas de datos](./Plataformas.md)
+    * Dispositivos comerciales
