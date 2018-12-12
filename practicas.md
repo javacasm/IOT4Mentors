@@ -12,9 +12,9 @@
 
 1. [Relés y mundo real](./Reles.md)
 
-1. Medidas analógicas y sensores: sensores de humedad y lluvia
+1. Medidas analógicas y sensores: [sensores de humedad](./Riego_automatico.md) y lluvia
 
-1. Activación por sensores: farola automática
+1. Activación por sensores: [farola automática](./Iluminacion_automatica.md)
 
 1. [Sensores 2:  Estación meteorológica](./Sensores_atmosfericos.md)
 
