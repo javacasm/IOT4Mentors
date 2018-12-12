@@ -8,7 +8,7 @@
 
 1. Reloj de tiempo real, [RTC](./Reloj_RTC.md)
 
-1. Sensores digitales, de presencia (Alarmas)
+1. Sensores digitales, de presencia ([Alarmas](./Alarma-Rele.md))
 
 1. [Relés y mundo real](./Reles.md)
 
