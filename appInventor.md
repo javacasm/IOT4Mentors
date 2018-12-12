@@ -3,23 +3,6 @@
 AppInventor es un entorno de programación de bloques que permite crear programas para dispositivos Android
 
 
-
-
-[Curso AppInventor](https://www.programoergosum.com/cursos-online/appinventor)
-
-[Video tutoriales](https://www.youtube.com/watch?time_continue=0&v=QbDcxhC9oFg)
-[Guia de appInventor](http://codeweek.eu/resources/spain/guia-iniciacion-app-inventor.pdf)
-# Curso Superior de Innovación Pedagógica y Metodologías para el Aprendizaje.
-
-## Módulo de Programación y Robótica.
-
-### José Antonio Vacas @javacasm
-
-![CCbySA](./images/CCbySQ_88x31.png)
-
-
-# AppInventor
-
 Es una aplicación web que ejecutamos en el navegador y que nos permite crear aplicaciones Android.
 
 ## 1.1 Primeros pasos
@@ -97,3 +80,14 @@ Para comenzar a depurar seleccionaremos la conexión según nuestra configuraci�
 Una vez seleccionada la conexión obtendremos un código para asegurar que la conexión entre ordenador y dispositivo es el correcto. Podemos escanear el código o escribirlo. Este código es el que utilizar el servidor del mit para poner en conexión al dispositivo y al PC.
 
 ![codigo](http://appinventor.mit.edu/explore/sites/all/files/ai2tutorials/paintPot2/PaintPotAllBlocks.png)
+
+
+
+## Recursos
+
+[Curso AppInventor](https://www.programoergosum.com/cursos-online/appinventor)
+
+[Video tutoriales](https://www.youtube.com/watch?time_continue=0&v=QbDcxhC9oFg)
+[Guia de appInventor](http://codeweek.eu/resources/spain/guia-iniciacion-app-inventor.pdf)
+
+
