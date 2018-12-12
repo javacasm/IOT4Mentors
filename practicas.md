@@ -32,6 +32,6 @@
 
 1. Control desde el móvil ([AppInventor](./appInventor.md))
 
-1. Control de potencia: iluminación gradual
+1. Control de potencia: [iluminación gradual](./LedPWM.md)
 
 1. Casa domótica
