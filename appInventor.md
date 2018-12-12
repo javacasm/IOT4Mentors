@@ -5,7 +5,7 @@ AppInventor es un entorno de programación de bloques que permite crear programa
 
 Es una aplicación web que ejecutamos en el navegador y que nos permite crear aplicaciones Android.
 
-## 1.1 Primeros pasos
+## Primeros pasos
 
 https://www.youtube.com/watch?v=w-kKzAk2mgw
 
