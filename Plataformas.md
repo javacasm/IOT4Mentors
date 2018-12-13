@@ -1,17 +1,28 @@
 ## Plataformas de publicación de datos
 
-### [Thingspeak](http://theelectronics.co.in/nodemcu-dht11-data-thingspeak/)
+* Blynk  https://www.blynk.cc/
+* Cayenne https://mydevices.com/ 
+* Grafana https://grafana.com/
+* Connect2me https://www.connect2.me/
+* All Things Talk https://www.allthingstalk.com/
+* Thingspeak https://thingspeak.com/
+* Xively https://www.xively.com/
 
-### [Cayenne](https://www.instructables.com/id/Platform-IoT-Cayenne-Mydevices-ESP8266-12E-NodeMCU/) ([Librería mqtt](https://github.com/myDevicesIoT/Cayenne-MQTT-ESP))
 
-### [Grafana](https://www.spainlabs.com/foros/tema-SpainLabsIoT2018-Grafana-Dashboard-Open-Source)
+### Tutoriales
+
+[Thingspeak](http://theelectronics.co.in/nodemcu-dht11-data-thingspeak/)
+
+[Cayenne](https://www.instructables.com/id/Platform-IoT-Cayenne-Mydevices-ESP8266-12E-NodeMCU/) ([Librería mqtt](https://github.com/myDevicesIoT/Cayenne-MQTT-ESP))
+
+[Grafana](https://www.spainlabs.com/foros/tema-SpainLabsIoT2018-Grafana-Dashboard-Open-Source)
 
 
-Grafana https://grafana.com/
-Connect2me https://www.connect2.me/
-All Things Talk https://www.allthingstalk.com/
-Thingspeak https://thingspeak.com/
-Xively https://www.xively.com/
+[Fuente Jose Enrique Crespo](https://twitter.com/jecrespom)
+
+[Plataformas publicas](https://aprendiendoarduino.wordpress.com/2018/11/23/plataformas-cloud-publicas/)
+
+[Thingspeak](https://aprendiendoarduino.wordpress.com/2018/11/23/thingspeak/)
 
 ## Otras formas de publicar
 
