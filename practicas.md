@@ -26,12 +26,9 @@
 
 1. HTML y [plataformas de publicación de información](./Plataformas.md)
 
-1. Medida de polución y gases
-
 1. [Sistema de riego automático](./Riego_automatico.md)
 
 1. Control desde el móvil ([AppInventor](./appInventor.md))
 
 1. Control de potencia: [iluminación gradual](./LedPWM.md)
 
-1. Casa domótica
