@@ -18,11 +18,8 @@
 
 1. [Sensores 2:  Estación meteorológica](./Sensores_atmosfericos.md)
 
-1. Motores y servos
 
-1. Sensores 3: Medidas de consumo
-
-1. Wifi y control remoto
+1. Wifi y [control remoto](./RelesWeb.md)
 
 1. HTML y [plataformas de publicación de información](./Plataformas.md)
 
