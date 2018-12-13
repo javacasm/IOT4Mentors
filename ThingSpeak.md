@@ -1,6 +1,6 @@
 # Publicación en ThingSpeak
 
-![](./images/ThingSpeak 1.png)
+![](./images/ThingSpeak_1.png)
 
 ThingSpeak es una servicio web que nos permite publicar datos de las medidas de nuestros dispositivos IOT (o de cualquier otro).
 
@@ -12,27 +12,27 @@ Es gratuito para cierto número de datos y nos permite de manera muy sencilla su
 
 * Entramos en Channels->My Channels y pulsamos en "New Channel"
 
-![ThingSpeak New Channel](./images/ThingSpeak New Channel.png)
+![ThingSpeak New Channel](./images/ThingSpeak_New_Channel.png)
 
 * Configuraremos el canal, indicando los datos que se van a enviar. Podemos añadir una descripción y datos como la web, canal de youtube, etc...
 
-![Configuracion canal](./images/ThingSpeak Configuracion Canal.png)
+![Configuracion canal](./images/ThingSpeak_Configuracion_Canal.png)
 
 * Para poder enviar datos al canal necesitamos el API KEY que lo identifica que incluiremos en nuestro código
 
-![ThingSpeak API Keys](./images/ThingSpeak API Keys.png)
+![ThingSpeak API Keys](./images/ThingSpeak_API_Keys.png)
 
 * Para que cualquiera pueda ver los datos, podemos hacer que el canal sea público, desde la pestaña Sharing
 
-![sharing](./images/ThingSpeak Canal Publico.png)
+![sharing](./images/ThingSpeak_Canal_Publico.png)
 
 * Una vez creado el canal podemos configurar los detalles de cada gráfico, para lo que pulsaremos sobre el icono "lapiz" de cada uno
 
 * En cualquier momento podemos importar/exportar los datos de un gráfico dado
 
-![ThingSpeak Import-Export](./images/ThingSpeak Import-Export.png)
+![ThingSpeak Import-Export](./images/ThingSpeak_Import-Export.png)
 
-![ThingSpeak Configuracion Grafico](./images/ThingSpeak Configuracion Grafico.png)
+![ThingSpeak Configuracion Grafico](./images/ThingSpeak_Configuracion_Grafico.png)
 
 ## Código 
 
