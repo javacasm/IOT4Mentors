@@ -9,9 +9,9 @@ void setup()  {
 
 
 void loop() {
-   int valorHumedad = analogRead(Sensor_LDR);
+   int valorHumedad = analogRead(Sensor_Humedad);
    
-   if( valorLDR <= iUmbralHumedad) {  // Si el valor de humedad es menor que el umbral se activa el rele 
+   if( valorHumedad <= iUmbralHumedad) {  // Si el valor de humedad es menor que el umbral se activa el rele 
     digitalWrite(Rele_1,HIGH);
    } else {
     digitalWrite(Rele_1,LOW);
